@@ -3,11 +3,11 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/ANUWA-MD/ANUWA-MD/blob/main/images/Anuwa%20-%20MD.png?raw=true" alt="DANUWA-MD Logo" style="border-radius: 50px; box-shadow: 0 0 20px #00ffe5, 0 0 30px #00ffe5, 0 0 40px #00ffe5;">
+  <img src="https://github.com/ANUWA-MD/ANUWA-MD/blob/main/images/Anuwa%20-%20MD.png?raw=true" alt="ANUWA-MD Logo" style="border-radius: 50px; box-shadow: 0 0 20px #00ffe5, 0 0 30px #00ffe5, 0 0 40px #00ffe5;">
 </p> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Hello+How+are+you%3F;Welcome+to+DANUWA-MD+WhatsApp+Bot;I'm+Danuka+Disanayaka" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Hello+How+are+you%3F;Welcome+to+DANUWA-MD+WhatsApp+Bot;I'm+Yasiru+Anuhas" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,13 +18,13 @@
 
 <p align="center">
   <a href="https://github.com/your-username/ANUWA-MD">
-    <img src="https://img.shields.io/github/repo-size/DANUWA-MD/ANUWA-MD?color=green&label=Repo%20Size&style=flat-square" />
+    <img src="https://img.shields.io/github/repo-size/ANUWA-MD/ANUWA-MD?color=green&label=Repo%20Size&style=flat-square" />
   </a>
   <a href="https://github.com/your-username/ANUWA-MD">
-    <img src="https://img.shields.io/github/license/DANUWA-MD/ANUWA-MD?color=blue&style=flat-square" />
+    <img src="https://img.shields.io/github/license/ANUWA-MD/ANUWA-MD?color=blue&style=flat-square" />
   </a>
   <a href="https://github.com/your-username/ANUWA-MD/fork">
-    <img src="https://img.shields.io/github/forks/DANUWA-MD/ANUWA-MD?style=flat-square" />
+    <img src="https://img.shields.io/github/forks/ANUWA-MD/ANUWA-MD?style=flat-square" />
   </a>
   <a href="https://github.com/your-username/ANUWA-MD/stargazers">
     <img src="https://img.shields.io/github/stars/ANUWA-MD/ANUWA-MD?style=flat-square" />
